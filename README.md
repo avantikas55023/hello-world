@@ -1,2 +1,3 @@
 # hello-world
-First git lesson
+#First git lesson
+Its great that i am learning git
